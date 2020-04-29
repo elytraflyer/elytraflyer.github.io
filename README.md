@@ -1,6 +1,6 @@
 # 欢迎来到我的博客！
 ## 最近更新
-[Scala 迭代器的使用](https://elytraflyer.github.io/scala-2)
+[Scala 迭代器的使用](https://elytraflyer.github.io/scala-2)   分类：Scala
 
 [用python老照翻新](https://elytraflyer.github.io/python-1)   分类：Python
 
